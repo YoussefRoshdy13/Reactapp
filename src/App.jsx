@@ -2,6 +2,7 @@ import { Routes, Route } from 'react-router-dom';
 import Hello from './Hello';  // Component name should start with an uppercase letter
 import FormComponent from './FormComponent';
 import Home from './Home';  // Make sure this line is present
+import './style.css';
 
 import './App.css';
 
