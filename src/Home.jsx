@@ -11,6 +11,8 @@ function Home() {
       <button onClick={() => navigate('/hello')}>Go to Hello Page</button>
       <button onClick={() => navigate('/form')}>Go to Form Page</button>
       <button onClick={() => navigate('/CounterPage')}>Go to Counter</button>
+      <button onClick={() => navigate('/user-list')}>Go to UserList</button>
+
     </div>
   );
 }
